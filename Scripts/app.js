@@ -6,7 +6,8 @@
  * @date August 4, 2016
  *
  * StudentID: 300870340
- *
+ * 
+ * 
  * @description This file is the main javascript file for the web site
  */
 // IIFE - Immediately Invoked Function Expression
