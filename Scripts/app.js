@@ -2,10 +2,10 @@
 /**
  * FileName: app.js
  *
- * @author Tom Tsiliopoulos
- * @date August 3, 2016
+ * @author Larissa Zocche
+ * @date August 4, 2016
  *
- * StudentID: 300818557
+ * StudentID: 300870340
  *
  * @description This file is the main javascript file for the web site
  */
@@ -24,7 +24,7 @@
         main();
     }
     function gameLoop() {
-        helloLabel.rotation += 5;
+        helloLabel.rotation -= 5;
         stage.update(); // refresh the stage container
     }
     function main() {
